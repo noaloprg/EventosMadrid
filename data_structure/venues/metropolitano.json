@@ -1,0 +1,22 @@
+{
+  "_id": "venue_metropolitano_madrid",
+  "name": "Estadio Riyadh Air Metropolitano",
+  "slug": "estadio-riyadh-air-metropolitano",
+  "capacity": 70460,
+  "address": {
+    "street": "Av. de Luis Aragonés, 4",
+    "city": "Madrid",
+    "postalCode": "28022"
+  },
+  "location": {
+    "type": "Point",
+    "coordinates": [-3.5995, 40.4362]
+  },
+  "defaultAffectedStreets": [
+    "Av. de Luis Aragonés",
+    "Acceso M-40",
+    "Av. de Arcentales"
+  ],
+  "createdAt": "2026-08-29T13:00:00Z",
+  "updatedAt": "2026-08-29T13:00:00Z"
+}
